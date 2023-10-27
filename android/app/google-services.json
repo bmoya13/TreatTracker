@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1054458283085",
+    "project_id": "treattracker-41ccf",
+    "storage_bucket": "treattracker-41ccf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054458283085:android:9508a01fac1b5f179f8804",
+        "android_client_info": {
+          "package_name": "com.example.candy_tracker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP0Tn8_MP5-UmMByqPKRE41HPuLvEr9FQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
